@@ -1,10 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
+import Navbar from './Navbar'
+import Body from './Body'
 
 function App() {
   return (
     <div className="App">
-      <h1>Facebook Page</h1>
+      <Navbar/>
+      <Body/>
     </div>
   );
 }
