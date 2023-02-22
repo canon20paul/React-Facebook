@@ -12,6 +12,7 @@ function App() {
     <BrowserRouter>
 
         <Navbar />
+        <Body />
         
       
     <Routes>
