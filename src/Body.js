@@ -27,7 +27,7 @@ function Body(){
     <div className='row justify-content-center'>
 
         <div className='col-md-6 mr-5'>
-                <img src="https://canon20paul.github.io/React-Facebook/fb1.png" alt=''/>
+                <img src="https://canon20paul.github.io/React-Facebook/public/fb1.png" alt=''/>
         </div>
 
             <div className='col-md-4 mt-5 mr-0'>
