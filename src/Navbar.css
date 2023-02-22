@@ -1,6 +1,7 @@
 .nav{
     background-color: blue;
     color: white;
+    margin-top: 20px;
 }
 input,button{
     margin: 10px;
